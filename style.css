@@ -21,7 +21,7 @@ body {
     height: 100vh;
 }
 
-.box-outer {
+main {
     display: flex;
     justify-content: center;
     border-radius: 20px;
@@ -52,8 +52,9 @@ img {
     padding-bottom: 5px;
 }
 
-h3 {
+h1 {
     width:250px;
+    font-size: 1.3rem;
 }
 
 p {
